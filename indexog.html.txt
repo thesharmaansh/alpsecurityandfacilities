@@ -107,7 +107,7 @@
   </ul>
 </div>
 <nav class="navbar navbar-expand-lg navbar-dark bg-purple">
-  <div class="container"> <a class="navbar-brand navbar-brand-logo" href="index.html"><img src="img/logo.png" alt="logo"></a>
+  <div class="container"> <a class="navbar-brand navbar-brand-logo" href="index.html"><img src="img/logo.jpg" alt="logo"></a>
     <button class="navbar-toggler button" type="button" data-toggle="collapse" data-target="#navBars" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
     <div class="collapse navbar-collapse" id="navBars">
       <ul class="navbar-nav ml-auto">
@@ -177,7 +177,7 @@
     <h2 class="text-dark-blue font-weight-bold h3">Best Security Service in Delhi & NCR for Your Protection !</h2>
   </div>
   <div class="row">
-    <div class="col-lg-4 pt-5"> <img src="img/security4.jpg" class="img-fluid border-bottom img-sticky" alt="security"> </div>
+    <div class="col-lg-4 pt-5"> <img src="img/security4.png" class="img-fluid border-bottom img-sticky" alt="security"> </div>
     <div class="col-lg-8 pt-4">
       <p class="text-justify">ALP Security provides an excellent troop of trained security guards, PSO, women security, bodyguards, bouncer security, and escort security as per the client's request. ALP security is one of the established security services in India and is the successful name of the industry for providing security services to the residents and visitors of Delhi, NCR, Gurgaon, and Noida regions. ALP Security is the top security agency in Delhi and is the dream project of the hard-core group of ex-servicemen who have the experience of working to protect the nation. To meet the expectation of the clients' ALP Security is the best security company in Delhi that enhances its service for clients by adding up more professional names in the administration and as well as in the troop of security guards. Satisfaction of clients is the main aim of the ALP team by providing the best security guard company in Delhi while committing provision for security services. By constantly improving our quality in the concern of security services provided for Delhi residents, tourists, and pilgrim groups we are gradually achieving the status of the best security services in South Delhi and the complete security service providers in India.</p>
       <p class="text-justify">The inner harmony that accompanies security administrations is immediate and lasts long. There is no viable alternative for physical and mental assurance that you are safeguarded. Whether that is you exclusively, family, resources, or your business and its representatives. ALP is the best security guard service provider in Delhi; with our security guards you’ll feel safe as they give a basic range of abilities in tense and undermining circumstances.</p>
