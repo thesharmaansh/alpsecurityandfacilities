@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from www.alpsecurity.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 25 Jul 2025 04:33:38 GMT -->
+<head>
+<meta charset="utf-8">
+<title>Get Security Guard Services Company in Delhi - Alp Security</title>
+<meta content="Hire best security guard services Agency in Delhi. We provide well trained security guards services to the corporate companies in Delhi. Get 24x7 security guard services." name="description" />
+<meta content="best security service, PSO, women security, bouncer security, security guards, bouncers, security services in Delhi, trend bouncer, security services, security guard services, security services providers, security services providers in Delhi, personal security officer,  female security officer, bouncer services in Delhi" name="keywords" />
+<meta name="viewport" content="width=device-width">
+<meta name="robots" content="index, follow, all" />
+<link rel="icon" href="favicon.png">
+<link rel="stylesheet" href="css4/bootstrap.min.css">
+<link rel="stylesheet" href="css4/style.css">
+<meta name="google-site-verification" content="dTiCsqmax-kynToNaMLpoMaJRpN8IKvo5Fztbg1KLNY" />
+</head>
+<body>
+<div id="callme"> <a href="tel:7071724060">
+  <div id="callmeMain"></div>
+  </a> </div>
+<!--<span data-toggle="modal" data-target="#myModal" id="btn-fix"><img src="img/feedback.png" alt=""></span>-->
+
+<div class="modal fade" id="myModal" role="dialog">
+  <div class="modal-dialog modal-sm"> 
+    
+    <!-- Modal content-->
+    <div class="modal-content" style="padding:10px">
+      <div class="modal-header"> 
+        <!-- redirect Code -->
+        
+        <h4 class="modal-title">Enquiry Form
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">×</span> </button>
+        </h4>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-sm-12 col-xs-12">
+            <form action="https://code.dvtpl.in/thanku.php" id="form" style="margin:0px" method="post" onSubmit="return ValidateForm(this);">
+              <script type="text/javascript">
+	function ValidateForm(frm) {
+	if (frm.name.value == "" || frm.name.value == null ) {alert('Name is required.');frm.name.focus();return false;}
+	if (frm.mobile.value == "" || frm.mobile.value == null) {alert('Mobile number is required.');frm.mobile.focus();return false;}
+	if (frm.email.value == "" || frm.email.value == null) {alert('Email address is required.');frm.email.focus();return false;}
+	if (frm.email.value.indexOf("@") < 1 || frm.email.value.indexOf(".") < 1) {alert('Please enter a valid email address.');frm.email.focus();return false;}
+	if (frm.msg.value == "" || frm.msg.value == null) {alert('Please enter comments or questions.');frm.msg.focus();return false;}
+	if (frm.skip_CaptchaCode.value == "" || frm.skip_CaptchaCode.value == null) {alert('Enter web form code.');frm.skip_CaptchaCode.focus();return false;}
+	return true; }
+	function ReloadCaptchaImage(captchaImageId) {
+	var obj = document.getElementById(captchaImageId);
+	var src = obj.src;
+	var date = new Date();
+	var pos = src.indexOf('&rad=');
+	if (pos >= 0) { src = src.substr(0, pos); }
+	obj.src = src + '&rad=' + date.getTime();
+	return false; }
+	</script> 
+              <script>
+	function isNumber(evt) {
+		evt = (evt) ? evt : window.event;
+		var charCode = (evt.which) ? evt.which : evt.keyCode;
+		if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+			return false;
+		}
+		return true;
+	}
+	</script>
+              <div class="row">
+                <input id="name" name="name" class="form-control" placeholder="Name" type="text" required>
+                <input id="email" name="email" class="form-control" placeholder="Email" type="text" required>
+                <input type="text" name="mobile" pattern="[0-9]{10,10}" autocomplete="off"  maxlength="10" id="extra7" onKeyPress="return isNumber(event)" class="form-control" placeholder="Mobile No" required>
+                <textarea id="msg" name="msg" class="form-control" placeholder="Message" required></textarea>
+              </div>
+              <!-- Mention the Client Mail ID's on which information have to send -->
+              <input name="clientMailID" type="hidden" value="alpsecurityservices@gmail.com"/>
+              
+              <!-- Website Name where to divert for conversion -->
+              <input name="website" type="hidden" value="alpsecurity.in/thanku.html" />
+              <!-- Auto Incremented -->
+              <input name="loginID" type="hidden" value="966" />
+              <!-- Company Name -->
+              <input name="companyName" type="hidden" value="A L P Security Services" />
+              <input class="btn sub-btn center-block" type="submit">
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container py-2">
+  <ul class="navbar nav-topbar justify-content-lg-end small navbar-right list-unstyled p-0 mb-0">
+    <li class="text-white"> <a href="cdn-cgi/l/email-protection.html#92f3fee2e1f7f1e7e0fbe6ebe1f7e0e4fbf1f7e1d2f5fff3fbfebcf1fdff">
+      <svg width="15" height="15">
+        <use xlink:href="#icon-mail" fill="#82827e"></use>
+      </svg>
+      <span class="__cf_email__" data-cfemail="17767b6764727462657e636e647265617e74726457707a767e7b3974787a">[email&#160;protected]</span> </a> </li>
+	  <li class="text-white ml-2"> <a href="tel:+917071724060">
+      <svg width="15" height="15">
+        <use xlink:href="#icon-call" fill="#82827e"></use>
+      </svg>
+      7071724060 </a> </li>
+    <li class="text-white ml-2"> <a href="tel:+919810100853">
+      <svg width="15" height="15">
+        <use xlink:href="#icon-call" fill="#82827e"></use>
+      </svg>
+      9810100853 </a> </li>
+  </ul>
+</div>
+<nav class="navbar navbar-expand-lg navbar-dark bg-purple">
+  <div class="container"> <a class="navbar-brand navbar-brand-logo" href="index.html"><img src="img/logo.png" alt="logo"></a>
+    <button class="navbar-toggler button" type="button" data-toggle="collapse" data-target="#navBars" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+    <div class="collapse navbar-collapse" id="navBars">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active"> <a class="nav-link" href="index.html">Home</a> </li>
+       <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="services.html" id="navbardrop"> Service </a>
+<div class="dropdown-menu"> <!--<a class="dropdown-item" href="https://www.alpsecurity.in/security-guard-services-in-dehradun.html">Dehradun</a> <a class="dropdown-item" href="https://www.alpsecurity.in/security-guard-services-in-haldwani.html">Haldwani<a> <a class="dropdown-item" href="https://www.alpsecurity.in/security-guard-services-in-haridwar.html">Haridwar</a> <a class="dropdown-item" href="https://www.alpsecurity.in/security-guard-services-in-nainital.html">Nainital</a> <a class="dropdown-item" href="https://www.alpsecurity.in/security-guard-services-in-roorkee.html">Roorkee</a> <a class="dropdown-item" href="https://www.alpsecurity.in/security-guard-services-in-rudrapur.html">Rudrapur</a> 
+-->
+<a class="dropdown-item" href="security-guard-services-in-delhi.html">Delhi</a> 
+<a class="dropdown-item" href="security-guard-services-in-haryana.html">Haryana</a> 
+<a class="dropdown-item" href="security-guard-services-in-uttar-pradesh.html">Uttar Pradesh</a> 
+<a class="dropdown-item" href="security-guard-services-in-uttarakhand.html">Uttarakhand</a> 
+<a class="dropdown-item" href="security-guard-services-in-punjab.html">Punjab</a>
+</div>
+</li>
+        <li class="nav-item"> <a class="nav-link" href="events-security.html">Events Security</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="testimonials.html">Testimonials</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="about-us.html">About</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="contact-us.html">Contact</a> </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<div class="bg-img">
+  <div class="container py-5">
+    <div class="row">
+      <div class="col-lg-6 pt-5">
+        <h1 class="font-weight-bold text-warning">Your Safety Is Our Moto</h1>
+        <p class="text-light h3">Your Security Worries Are Our Concern</p>
+         <div class="media mt-3">
+        <svg width="20" height="20">
+          <use xlink:href="#icon-call" fill="#f9c56a"></use>
+        </svg>
+        <div class="media-body">
+          <p class="ml-1 mb-2"> <a href="tel:+91 7071724060" class="text-white" target="_blank"> 7071724060</a></p>
+        </div>
+      </div>
+		<div class="media ">
+          <svg width="20" height="20">
+            <use xlink:href="#icon-call" fill="#f9c56a"></use>
+          </svg>
+          <div class="media-body">
+            <p class="ml-1 mb-2"> <a href="tel:+919810100853" class="text-white" target="_blank"> 9810100853</a></p>
+          </div>
+        </div>
+        <div class="media">
+          <svg width="20" height="20">
+            <use xlink:href="#icon-whatsapp" fill="#04c241"></use>
+          </svg>
+          <div class="media-body">
+            <p class="ml-1 mb-2"> <a href="https://api.whatsapp.com/send?text=This%20query%20generated%20from%20www.alpsecurity.in.com&amp;phone=919810100853" target="_blank" rel="noreferrer" class="text-white"> 9810100853</a></p>
+          </div>
+        </div>
+        <div class="media">
+          <svg width="20" height="20">
+            <use xlink:href="#icon-mail" fill="#f9c56a"></use>
+          </svg>
+          <div class="media-body">
+            <p class="ml-1"><a href="contact-us.html" class="text-white" target="_blank">Send Us Query</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="text-center pt-5">
+    <h2 class="text-dark-blue font-weight-bold h3">Best Security Service in Delhi & NCR for Your Protection !</h2>
+  </div>
+  <div class="row">
+    <div class="col-lg-4 pt-5"> <img src="img/security4.jpg" class="img-fluid border-bottom img-sticky" alt="security"> </div>
+    <div class="col-lg-8 pt-4">
+      <p class="text-justify">ALP Security provides an excellent troop of trained security guards, PSO, women security, bodyguards, bouncer security, and escort security as per the client's request. ALP security is one of the established security services in India and is the successful name of the industry for providing security services to the residents and visitors of Delhi, NCR, Gurgaon, and Noida regions. ALP Security is the top security agency in Delhi and is the dream project of the hard-core group of ex-servicemen who have the experience of working to protect the nation. To meet the expectation of the clients' ALP Security is the best security company in Delhi that enhances its service for clients by adding up more professional names in the administration and as well as in the troop of security guards. Satisfaction of clients is the main aim of the ALP team by providing the best security guard company in Delhi while committing provision for security services. By constantly improving our quality in the concern of security services provided for Delhi residents, tourists, and pilgrim groups we are gradually achieving the status of the best security services in South Delhi and the complete security service providers in India.</p>
+      <p class="text-justify">The inner harmony that accompanies security administrations is immediate and lasts long. There is no viable alternative for physical and mental assurance that you are safeguarded. Whether that is you exclusively, family, resources, or your business and its representatives. ALP is the best security guard service provider in Delhi; with our security guards you’ll feel safe as they give a basic range of abilities in tense and undermining circumstances.</p>
+      <p class="text-justify">Security operations are committed and responded under a strict, confidential manner so that executing them into action will be easier and more effective. The security services company in Delhi is provided as per the quote of each category which is affordable and reasonable enough when the extreme quality security guard services are provided.</p>
+      <h1>Why Choose ALP Security Guard Services Agency in Delhi?</h1>
+      <p class="text-justify">We ensured to offer the best security guard services in South Delhi at reasonable costs and also pledged to fulfill our clients’ needs which make us the best security guard agency in Delhi.
+      <p class="text-justify">We are security services providers in Delhi that are highly reliable and trustworthy and the best security agency in Delhi NCR. There is nothing more important than the safety of clients and their property for ALP securities. Our security guards give the best security services in Delhi. If you are looking for a security guard provider in Delhi, ALP Security is at your rescue. We are one of the best security guard companies in Delhi NCR and are here to bring our best.  We are committed to the high-quality security services for the citizens of India with all the latest technologies. We provide a personal security officer and trend bouncer for the events organized. We are one of the top security companies in Delhi NCR who protect many Celebes. We commit to one of the best security guard services in Delhi NCR with a foolproof guarantee of the security service provider in Delhi.
+      <ul class="text-grey list-check">
+        <li>We are Security services providers in Delhi that is highly reliable and trustworthy</li>
+        <li>We are committed for the high quality security services for the citizens in India</li>
+        <li>We provide personal security officer and trend bouncer for the events organized</li>
+        <li>We are the security services providers in Delhi who protect many Celebes</li>
+        <li>We commit security services Delhi, NCR with foolproof security guaranteed</li>
+        <li> Our each and every security guard in Delhi is verified by the police</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="bg-light">
+  <div class="container">
+    <div class="text-center py-5">
+      <p class="text-dark-blue font-weight-bold h3">Our Wonderful Services</p>
+    </div>
+    <div class="row pb-5 mb-3">
+      <div class="col-lg-4 pb-5">
+        <div class="card shadow mb-2"> <img class="card-img-top img-fluid" src="img/about4.jpg" alt="">
+          <div class="card-body">
+            <p class="text-dark-blue font-weight-bold text-center mb-0">Security Guards</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 pb-5">
+        <div class="card shadow mb-2"> <img class="card-img-top img-fluid" src="img/event6.jpg" alt="">
+          <div class="card-body">
+            <p class="text-dark-blue font-weight-bold mb-0 text-center">Bodyguards & Bouncers</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="card shadow mb-2"> <img class="card-img-top img-fluid" src="img/event5.jpg" alt="">
+          <div class="card-body">
+            <p class="text-dark-blue font-weight-bold text-center mb-0">Personal Security Officers</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-lg-4 text-center"> <img src="img/ceo.jpg" class="img-fluid img-thumbnail my-3" alt=""> </div>
+    <div class="col-lg-8">
+      <h2 class="text-dark-blue font-weight-bold h3"> Words From CEO </h2>
+      <p class="text-justify">We are experts in occupational security thus we can identify major requirements of security within organizations and residential setup which gives us the confidence to take the challenge of any kind of security arrangements needed in the residential, industrial, as well as commercial locations. We have well trained, experienced staffs to work as Liaison officers with local Govt. authorities also which make us the authorized security services providers in Delhi. We are happy to be the name that the clients trust and appreciate once they enjoy us as best security.</p>
+      <p class="font-weight-bold">A.L. PAL (C.E.O)</p>
+    </div>
+  </div>
+</div>
+<div class="container py-5">
+  <div class="row">
+    <div class="col-lg-8">
+      <h3 class="text-dark-blue font-weight-bold">Recent Events That Were Under Our Security Surveillance !</h3>
+      <div class="media p-3">
+        <svg width="30" height="30">
+          <use xlink:href="#icon-safe"></use>
+        </svg>
+        <div class="media-body ml-3">
+          <p class="text-dark font-weight-bold h5">PSO Provided for the Celebrity Protection</p>
+          <p class="text-justify">ALP Security provided security guard services as well PSO service for the inauguration of Kids Garments and Fashion Accessories shop in Noida. The small screen star who came to inaugurate the shop was provided with 2 PSO service, and the building was provided with the security guards to check crowd gathering and safety of guests.</p>
+        </div>
+      </div>
+      <div class="media p-3">
+        <svg width="30" height="30">
+          <use xlink:href="#icon-safe"></use>
+        </svg>
+        <div class="media-body ml-3">
+          <p class="text-dark font-weight-bold h5">Armed PSO Service for Pilgrim Group</p>
+          <p class="text-justify">Troop of 15 pilgrims from Srinagar, Kashmir was been at Delhi for a short duration of time and responsibility for their protection is given to ALP Security. For 1 week time, 3 PSO (armed PSO) was provided to escort the pilgrims which include some political figures who face threat from some terrorist groups. </p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4"> <img src="img/event-security1.jpg" alt="" class="img-fluid"> </div>
+  </div>
+</div>
+<div class="bg-purple">
+  <div class="container">
+    <div class="row py-5">
+      <div class="col-lg-8 offset-lg-2 text-center">
+        <p class="text-light font-weight-bold h3">Know What Our Client Says</p>
+        <p class="text-light pt-3">Best security guards that we ever got for our company is from ALP Security. No words to explain the dedication and commitment they show toward the profile assigned to them. The security guard service that we hired from ALP Security was with the concern of strangers entering the premise of office and to avoid the social nuisance during night times.We really like to share our gratitude to ALP Security for the best security services in Delhi they provide</p>
+        <p class="small text-light">- Ramesh Nair, New Delhi</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container py-5">
+  <p class="text-dark-blue font-weight-bold h3 text-center pb-3">Trusted By</p>
+  <div class="row">
+    <div class="col-lg-10 offset-lg-1">
+      <img src="img/clients.jpg" alt="Trusted Clients" class="img-fluid" style="border-radius: 16px;">
+    </div>
+  </div>
+</div>
+
+<footer class="py-3 footer">
+  <div class="container">
+    <p class="text-center text-white small mb-0">© Copyright <?php echo date('Y'); ?> | All Rights are Reserved.</p>
+  </div>
+</footer>
+
+<?php include("inc/sprite.html"); ?>
+
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script src="js4/jquery.min.js"></script> 
+<script src="js4/bootstrap.bundle.min.js"></script>
+</body>
+
+<!-- Mirrored from www.alpsecurity.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 25 Jul 2025 04:33:54 GMT -->
+</html>
