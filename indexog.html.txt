@@ -15,7 +15,7 @@
 <meta name="google-site-verification" content="dTiCsqmax-kynToNaMLpoMaJRpN8IKvo5Fztbg1KLNY" />
 </head>
 <body>
-<div id="callme"> <a href="tel:7071724060">
+<div id="callme"> <a href="tel:9711987106">
   <div id="callmeMain"></div>
   </a> </div>
 <!--<span data-toggle="modal" data-target="#myModal" id="btn-fix"><img src="img/feedback.png" alt=""></span>-->
@@ -94,11 +94,11 @@
         <use xlink:href="#icon-mail" fill="#82827e"></use>
       </svg>
       <span class="__cf_email__" data-cfemail="17767b6764727462657e636e647265617e74726457707a767e7b3974787a">[email&#160;protected]</span> </a> </li>
-	  <li class="text-white ml-2"> <a href="tel:+917071724060">
+	  <li class="text-white ml-2"> <a href="tel:+919711987106">
       <svg width="15" height="15">
         <use xlink:href="#icon-call" fill="#82827e"></use>
       </svg>
-      7071724060 </a> </li>
+      9711987106 </a> </li>
     <li class="text-white ml-2"> <a href="tel:+919810100853">
       <svg width="15" height="15">
         <use xlink:href="#icon-call" fill="#82827e"></use>
@@ -141,7 +141,7 @@
           <use xlink:href="#icon-call" fill="#f9c56a"></use>
         </svg>
         <div class="media-body">
-          <p class="ml-1 mb-2"> <a href="tel:+91 7071724060" class="text-white" target="_blank"> 7071724060</a></p>
+          <p class="ml-1 mb-2"> <a href="tel:+91 9711987106" class="text-white" target="_blank"> 9711987106</a></p>
         </div>
       </div>
 		<div class="media ">
