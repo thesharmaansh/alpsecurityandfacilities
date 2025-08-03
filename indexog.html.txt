@@ -228,7 +228,7 @@
 </div>
 <div class="container">
   <div class="row">
-    <div class="col-lg-4 text-center"> <img src="img/ceo.jpg" class="img-fluid img-thumbnail my-3" alt=""> </div>
+    <div class="col-lg-4 text-center"> <img src="img/pal-image.jpg" class="img-fluid img-thumbnail my-3" alt=""> </div>
     <div class="col-lg-8">
       <h2 class="text-dark-blue font-weight-bold h3"> Words From CEO </h2>
       <p class="text-justify">We are experts in occupational security thus we can identify major requirements of security within organizations and residential setup which gives us the confidence to take the challenge of any kind of security arrangements needed in the residential, industrial, as well as commercial locations. We have well trained, experienced staffs to work as Liaison officers with local Govt. authorities also which make us the authorized security services providers in Delhi. We are happy to be the name that the clients trust and appreciate once they enjoy us as best security.</p>
