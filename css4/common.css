@@ -317,6 +317,8 @@ body {
   align-items: center;
   position: relative;
   overflow: hidden;
+  padding-top: 80px; /* Add this line - adjust value based on your navbar height */
+
 }
 
 .hero-section.hero-section-small {
@@ -650,3 +652,33 @@ body {
   padding: 0;
 }
 
+/* Mobile navbar overlap fix */
+@media (max-width: 768px) {
+  .hero-section {
+    padding-top: 5px !important; /* Increase padding on mobile */
+  }
+  
+  .hero-title {
+    font-size: 2.5rem; /* Optional: smaller title on mobile */
+  }
+}
+
+@media (max-width: 576px) {
+  .hero-section {
+    padding-top: 0px !important; /* Adjust for very small screens */
+  }
+  
+  .hero-title {
+    font-size: 2rem; /* Optional: even smaller on very small screens */
+  }
+}
+
+@media (max-width: 380px) {
+  .hero-section {
+    padding-top: 70px !important; /* Adjust for very small screens */
+  }
+  
+  .hero-title {
+    font-size: 2rem; /* Optional: even smaller on very small screens */
+  }
+}

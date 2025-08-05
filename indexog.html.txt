@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.alpsecurity.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 25 Jul 2025 04:33:38 GMT -->
+<!-- Mirrored from www.alpsecurityfacilities.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 25 Jul 2025 04:33:38 GMT -->
 <head>
 <meta charset="utf-8">
 <title>Get Security Guard Services Company in Delhi - Alp Security</title>
@@ -71,7 +71,7 @@
                 <textarea id="msg" name="msg" class="form-control" placeholder="Message" required></textarea>
               </div>
               <!-- Mention the Client Mail ID's on which information have to send -->
-              <input name="clientMailID" type="hidden" value="alpsecurityservices@gmail.com"/>
+              <input name="clientMailID" type="hidden" value="alpfacility@gmail.com"/>
               
               <!-- Website Name where to divert for conversion -->
               <input name="website" type="hidden" value="alpsecurity.in/thanku.html" />
@@ -107,13 +107,13 @@
   </ul>
 </div>
 <nav class="navbar navbar-expand-lg navbar-dark bg-purple">
-  <div class="container"> <a class="navbar-brand navbar-brand-logo" href="index.html"><img src="img/logo.jpg" alt="logo"></a>
+  <div class="container"> <a class="navbar-brand navbar-brand-logo" href="index.html"><img src="img/logo.png" alt="logo"></a>
     <button class="navbar-toggler button" type="button" data-toggle="collapse" data-target="#navBars" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
     <div class="collapse navbar-collapse" id="navBars">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item active"> <a class="nav-link" href="index.html">Home</a> </li>
        <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="services.html" id="navbardrop"> Service </a>
-<div class="dropdown-menu"> <!--<a class="dropdown-item" href="https://www.alpsecurity.in/security-guard-services-in-dehradun.html">Dehradun</a> <a class="dropdown-item" href="https://www.alpsecurity.in/security-guard-services-in-haldwani.html">Haldwani<a> <a class="dropdown-item" href="https://www.alpsecurity.in/security-guard-services-in-haridwar.html">Haridwar</a> <a class="dropdown-item" href="https://www.alpsecurity.in/security-guard-services-in-nainital.html">Nainital</a> <a class="dropdown-item" href="https://www.alpsecurity.in/security-guard-services-in-roorkee.html">Roorkee</a> <a class="dropdown-item" href="https://www.alpsecurity.in/security-guard-services-in-rudrapur.html">Rudrapur</a> 
+<div class="dropdown-menu"> <!--<a class="dropdown-item" href="https://www.alpsecurityfacilities.com/security-guard-services-in-dehradun.html">Dehradun</a> <a class="dropdown-item" href="https://www.alpsecurityfacilities.com/security-guard-services-in-haldwani.html">Haldwani<a> <a class="dropdown-item" href="https://www.alpsecurityfacilities.com/security-guard-services-in-haridwar.html">Haridwar</a> <a class="dropdown-item" href="https://www.alpsecurityfacilities.com/security-guard-services-in-nainital.html">Nainital</a> <a class="dropdown-item" href="https://www.alpsecurityfacilities.com/security-guard-services-in-roorkee.html">Roorkee</a> <a class="dropdown-item" href="https://www.alpsecurityfacilities.com/security-guard-services-in-rudrapur.html">Rudrapur</a> 
 -->
 <a class="dropdown-item" href="security-guard-services-in-delhi.html">Delhi</a> 
 <a class="dropdown-item" href="security-guard-services-in-haryana.html">Haryana</a> 
@@ -157,7 +157,7 @@
             <use xlink:href="#icon-whatsapp" fill="#04c241"></use>
           </svg>
           <div class="media-body">
-            <p class="ml-1 mb-2"> <a href="https://api.whatsapp.com/send?text=This%20query%20generated%20from%20www.alpsecurity.in.com&amp;phone=919810208611" target="_blank" rel="noreferrer" class="text-white"> 9810208611</a></p>
+            <p class="ml-1 mb-2"> <a href="https://api.whatsapp.com/send?text=This%20query%20generated%20from%20www.alpsecurityfacilities.com.com&amp;phone=919810208611" target="_blank" rel="noreferrer" class="text-white"> 9810208611</a></p>
           </div>
         </div>
         <div class="media">
@@ -295,5 +295,5 @@
 <script src="js4/bootstrap.bundle.min.js"></script>
 </body>
 
-<!-- Mirrored from www.alpsecurity.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 25 Jul 2025 04:33:54 GMT -->
+<!-- Mirrored from www.alpsecurityfacilities.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 25 Jul 2025 04:33:54 GMT -->
 </html>
